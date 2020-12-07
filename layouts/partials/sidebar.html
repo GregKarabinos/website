@@ -12,7 +12,7 @@
         <div>
             <h4>Other Posts</h4>
             <ul>
-            {{ range $.Site.Data.external.pages }}
+            {{ range $.Site.Data.external.posts }}
                 <li><a href="{{ .Link }}" title="{{ .Name }}" target=newtab>{{ .Name }}</a></li>
             {{ end }}
             </ul>
