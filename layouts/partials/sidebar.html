@@ -17,5 +17,13 @@
             {{ end }}
             </ul>
         </div>
+        <div>
+            <h4>In the news...</h4>
+            <ul>
+            {{ range $.Site.Data.external.posts }}
+                <li><a href="{{ .Link }}" title="{{ .Name }}" target=newtab>{{ .Name }}</a></li>
+            {{ end }}
+            </ul>
+        </div>
     </div>
 </div>

@@ -50,6 +50,7 @@ func (s *Server) router() http.Handler {
 	// Setup middleware for adding desired security headers.
 	secureMiddleware := secure.New(secure.Options{
 		AllowedHosts: []string{
+			`aarontaylor\.xyz`,
 			`ataylor\.io`,
 			`ataylor-io\.appspot\.com`,
 			`.*-dot-ataylor-io\.appspot\.com`,

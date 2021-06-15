@@ -38,7 +38,7 @@ experience for file search and organization. It analyzes files with a similar
 intent to how a search engine would analyze the web, providing SmartTags based
 on found concepts and ideas.
 
-### Head Developer and Co-Founder, [Peck](https://itunes.apple.com/tr/app/peck-social-calendaring-event/id912464190)
+### Engineering Lead and Co-Founder, [Peck](https://itunes.apple.com/tr/app/peck-social-calendaring-event/id912464190)
 #### Fall 2013 - January 2015
 Won the annual Williams College Business Plan Competition and hired a team of 5
 to work out of [Lever](http://www.leverinc.org). Lead development of a mobile
@@ -88,9 +88,9 @@ control board, motor mount, and drive train assembly.
 
 ## Education
 
-### [Williams College](https://www.google.com/webhp?hl=en#hl=en&q=Williams+College) 2016'
+### [Williams College](https://www.google.com/webhp?hl=en#hl=en&q=Williams+College) Class of 2016'
 
-#### Majoring in Computer Science
+#### Major: Computer Science, Political Economy
 **Selected Coursework:** Distributed Systems, Data Mining, Computer
 Architecture, Principles of Programming Languages, Mobile App Development, Intro
 to Cryptography, Computer Graphics, Computer Vision
@@ -105,7 +105,3 @@ Assembly Language, Distributed Systems, iOS Development, Relational Databases
 **Other Interests:** Metalworking and Fabrication, Woodworking, Piano (15
 years), Williams Cycling Club, Williams Sailing Team, Williams Nordic Ski Club,
 Hiking, Film
-
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/ataylor0123" data-format="inline"></script>
-
